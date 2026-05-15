@@ -31,3 +31,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     App(root)
     root.mainloop()
+from logic import calcular_imc, get_weather, recomendacao_agua
